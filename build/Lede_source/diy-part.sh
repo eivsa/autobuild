@@ -91,4 +91,5 @@ openwrt-x86-64-generic.manifest
 openwrt-x86-64-generic-squashfs-rootfs.img.gz
 sha256sums
 version.buildinfo
+ipk.tar.gz
 EOF
